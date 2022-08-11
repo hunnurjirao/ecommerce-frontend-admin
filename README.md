@@ -4,6 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Client Side Code: https://github.com/hunnurjirao/ecommerce-frontend-client
+Backend Code: https://github.com/hunnurjirao/ecommerce-backend-flask
 ## How to run
 ````
 git clone https://github.com/hunnurjirao/ecommerce-frontend-admin.git
